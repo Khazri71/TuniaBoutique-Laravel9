@@ -24,7 +24,7 @@
                                     <div class="thumb">
                                         <div class="inner-content">
                                             <h4>Femme</h4>
-                                            <span>Meilleurs Vêtements Pour Femmes</span>
+                                            <span>Meilleurs Vêtements Pour Femmes Femmes</span>
                                         </div>
                                         <div class="hover-content">
                                             <div class="inner">
